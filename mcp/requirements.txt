@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+pydantic
+httpx
+# optional for transformers backend
+transformers
+torch
+# optional for vLLM (if you install vllm runtime)
+# vllm
+# optional for ollama HTTP client if you use it
+# requests

@@ -1,0 +1,52 @@
+[
+  {
+    "duplicate_id": null,
+    "tags": [ "hardware", "boot", "xps", "urgent" ],
+    "title": "XPS 13 won’t boot",
+    "description": "System powers on but no POST screen.",
+    "status": 0,
+    "createdAt": { "$date": "2025-10-18T15:03:11.799Z" },
+    "updatedAt": { "$date": "2025-10-18T15:03:11.799Z" },
+    "__v": 0
+  },
+  {
+    "duplicate_id": null,
+    "tags": [ "peripherals", "trackpad", "inspiron", "linux" ],
+    "title": "Trackpad jitter on Inspiron",
+    "description": "Pointer randomly jumps; worse on battery.",
+    "status": 0,
+    "createdAt": { "$date": "2025-10-18T15:03:11.835Z" },
+    "updatedAt": { "$date": "2025-10-18T15:03:11.835Z" },
+    "__v": 0
+  },
+  {
+    "duplicate_id": { "$oid": "652f4c56e4b0f32a7d123abc" },
+    "tags": [ "duplicate", "triage" ],
+    "title": "Duplicate: XPS won’t boot",
+    "description": "Same as ticket above; marking duplicate.",
+    "status": 1,
+    "createdAt": { "$date": "2025-10-18T15:03:11.848Z" },
+    "updatedAt": { "$date": "2025-10-18T15:03:11.848Z" },
+    "__v": 0
+  },
+  {
+    "duplicate_id": null,
+    "tags": [ "firmware", "bios", "thermal", "resolved" ],
+    "title": "BIOS updated resolved thermal throttling",
+    "description": "After updating to 1.23.4, throttling is gone.",
+    "status": 2,
+    "createdAt": { "$date": "2025-10-18T15:03:11.859Z" },
+    "updatedAt": { "$date": "2025-10-18T15:03:11.859Z" },
+    "__v": 0
+  },
+  {
+    "duplicate_id": null,
+    "tags": [ "admin", "cancelled" ],
+    "title": "Cancel request: wrong product",
+    "description": "Opened against Latitude but issue was for Precision.",
+    "status": 3,
+    "createdAt": { "$date": "2025-10-18T15:03:11.871Z" },
+    "updatedAt": { "$date": "2025-10-18T15:03:11.871Z" },
+    "__v": 0
+  }
+]
